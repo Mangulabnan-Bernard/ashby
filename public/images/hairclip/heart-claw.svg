@@ -1,0 +1,6 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#ffe4e6"/>
+  <path d="M150 180 C120 150, 80 120, 80 150 C80 180, 120 220, 150 250 C180 220, 220 180, 220 150 C220 120, 180 150, 150 180Z" fill="#ec4899"/>
+  <rect x="130" y="250" width="40" height="30" rx="5" fill="#831843"/>
+  <text x="150" y="250" text-anchor="middle" fill="#831843" font-family="Arial" font-size="14">Heart Claw Clips</text>
+</svg>

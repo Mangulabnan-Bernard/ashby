@@ -1,0 +1,11 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#fef3c7"/>
+  <circle cx="150" cy="120" r="30" fill="#f59e0b" opacity="0.3"/>
+  <rect x="140" y="100" width="20" height="40" rx="10" fill="#d97706"/>
+  <path d="M150 140 L150 180" stroke="#d97706" stroke-width="3"/>
+  <path d="M140 180 Q150 190 160 180" stroke="#d97706" stroke-width="2" fill="none"/>
+  <path d="M145 185 Q150 195 155 185" stroke="#d97706" stroke-width="2" fill="none"/>
+  <path d="M150 190 Q150 200 150 190" stroke="#d97706" stroke-width="2" fill="none"/>
+  <circle cx="150" cy="210" r="6" fill="#6b7280"/>
+  <text x="150" y="250" text-anchor="middle" fill="#78350f" font-family="Arial" font-size="14">Tassel Keychain</text>
+</svg>

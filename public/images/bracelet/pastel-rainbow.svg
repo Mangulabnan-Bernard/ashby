@@ -1,0 +1,10 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#fef3c7"/>
+  <path d="M100 150 Q150 100 200 150" stroke="#f87171" stroke-width="8" fill="none"/>
+  <path d="M100 150 Q150 120 200 150" stroke="#fb923c" stroke-width="8" fill="none"/>
+  <path d="M100 150 Q150 140 200 150" stroke="#fbbf24" stroke-width="8" fill="none"/>
+  <path d="M100 150 Q150 160 200 150" stroke="#a3e635" stroke-width="8" fill="none"/>
+  <path d="M100 150 Q150 180 200 150" stroke="#60a5fa" stroke-width="8" fill="none"/>
+  <path d="M100 150 Q150 200 200 150" stroke="#c084fc" stroke-width="8" fill="none"/>
+  <text x="150" y="250" text-anchor="middle" fill="#78350f" font-family="Arial" font-size="14">Pastel Rainbow Bracelet</text>
+</svg>
